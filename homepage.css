@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+    
+   
+}
+#Header1{
+    height: 40px;
+    width: 100%;
+    background-color: darkblue;
+
+}
+    .text{
+        font-weight: bold;
+    color: white;
+    padding-top: 5px;
+}
+#banner{
+    height: 100px;
+    background-color: white;
+}
+#banner img{
+    height: 100px;
+    width: 100%;
+}
+#nav_bar{
+    height: 50px;
+    width: 100%;
+    background-color: darkblue;
+    margin-top: 0px;
+}
+#nav_bar ul{
+    float: left;
+    padding-bottom: 10px;
+    
+}
+#nav_bar ul li{
+    list-style: none;
+    float: left;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+#nav_bar ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-right: 30px;
+    font-size: 20px;
+}
+#nav_bar ul li a :hover{
+    background-color: yellow;
+}
+#BG_photo{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-image: url(images/bg.jpg);
+    opacity: 100%;
+}
+#line{
+    height: 2px;
+    width: 960px;
+    background-color: red;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#About{
+    height: 200px;
+    width: 960px;
+}
+#About p{
+    font-size: 25px;
+    margin-left: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+#About h2{
+    font-size: 40px;
+    margin-left: 10px;
+}
+#Message{
+    font-size: 20px;
+    padding-top: 50px;
+}
+#Message h2{
+    font-size: 40px;
+}
+
+#Message p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+        padding: 0px;
+}
+#footer1{
+    background-color: darkblue;
+    height: 300px;
+    width: 100%;
+}
+#footer1 h3{
+    color: white;
+    font-size: 25px;
+    padding-left: 25px;
+    padding-top: 5px;
+}
