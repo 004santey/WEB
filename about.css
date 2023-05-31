@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(252, 248, 248);
+}
+#Intro {
+    padding-left: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+#Intro h2{
+    background-color: red;
+    color: white;
+    width: 200px;
+    text-align: center;
+
+}
+#image{
+    padding-top: 5px;
+    padding-left: 0px;
+}
+#Teachers{
+    font-family: 'Oswald', sans-serif;
+    padding-left: 40px;
+    font-size: 20px;
+}
