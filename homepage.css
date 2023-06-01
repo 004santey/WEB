@@ -91,6 +91,7 @@ body{
 #Message{
     height: 500px;
     width: 1920px;
+    display: flex;
     
 }
 .message_text{
@@ -135,6 +136,7 @@ body{
     background-color: darkblue;
     height: 150px;
     width: 1920px;
+    display: flex;
 }
 .footer1{
     height: 150px;

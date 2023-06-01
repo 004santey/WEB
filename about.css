@@ -33,9 +33,17 @@ body{
     text-align: center;
 }
 #photos{
-    height: 250px;
+    height: 350px;
     width: 1920px;
     background-color:bisque;
+    padding: 0%;
+    margin: 0%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center  ;
 }
 #photos img{
     height: 200px;
