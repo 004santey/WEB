@@ -31,6 +31,10 @@ body{
     color: white;
     width: 200px;
     text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    padding: 20px;
+    
 }
 #photos{
     height: 350px;

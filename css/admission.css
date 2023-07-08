@@ -1,22 +1,23 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
   }
-  
+#B_photo{
+  height: 500px;
+  margin-top: 20px;
+  padding-left: 400px;
+}
   section {
     padding: 50px;
   }
   
-  #hero {
-    background-image: url('hero-image.jpg');
+  #apply {
     background-size: cover;
     background-position: center;
     color: #ff0000;
     text-align: center;
   }
   
-  .hero-text {
+  .apply-text {
     max-width: 600px;
     margin: 0 auto;
   }
@@ -29,9 +30,16 @@ body {
     margin-top: 20px;
     text-decoration: none;
   }
-  
-  .program {
-    margin-bottom: 20px;
+  .cta-button:hover{
+    color:yellow;
+    background-color: red;
   }
-
-  
+.ad-text{
+  max-width: 600px;
+  margin: 0 auto;
+  padding-left: 350px;
+  padding-top: 100px;
+}
+.ad-text h2{
+  padding-left: 50px;
+} 
