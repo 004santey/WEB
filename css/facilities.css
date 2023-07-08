@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .facility {
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .facility h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .facility p {
+    margin-bottom: 10px;
+    color: #666;
+    font-size: medium;
+  }
+  
+  .facility img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  }
