@@ -34,7 +34,7 @@ body{
     margin: 0 auto;
     padding-bottom: 10px;
     padding: 20px;
-    
+
 }
 #photos{
     height: 350px;
@@ -51,6 +51,7 @@ body{
 }
 #photos img{
     height: 200px;
+    width: 250px;
     padding:20px;
     padding-left: 80px;
     float: left;
